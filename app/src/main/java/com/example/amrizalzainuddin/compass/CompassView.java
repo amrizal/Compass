@@ -46,6 +46,8 @@ public class CompassView extends View {
         initCompassView();
     }
 
+
+
     private void initCompassView() {
         setFocusable(true);
 
